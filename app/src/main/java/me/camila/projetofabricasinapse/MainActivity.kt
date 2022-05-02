@@ -1,6 +1,7 @@
 package me.camila.projetofabricasinapse
 
 
+import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -20,6 +21,9 @@ class MainActivity : AppCompatActivity() {
 
         val btEnviar = findViewById<Button>(R.id.btEnviar)
         val btEnviar2 = findViewById<Button>(R.id.btEnviar2)
+
+
+
 
         btEnviar.setOnClickListener {
 
