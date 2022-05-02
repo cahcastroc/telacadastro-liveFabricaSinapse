@@ -2,7 +2,7 @@
     <string name="app_name">projetoFabricaSinapse</string>
     <string name="seu_nome">Seu nome:</string>
     <string name="insira_o_seu_nome">Insira o seu nome…</string>
-    <string name="enviar">Enviar</string>
+    <string name="enviar">Enviar para essa tela</string>
     <string name="Olá_nome">Olá, %1$s!</string>
     <string name="title_activity_drawer">DrawerActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -13,6 +13,8 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_gallery">Em breve!</string>
+    <string name="menu_slideshow">Em breve!</string>
+    <string name="enviar_para_a_outra_tela">Enviar para a outra Tela</string>
+    <string name="clique_no_bot_o_de_email">Clique no Botão de email</string>
 </resources>
