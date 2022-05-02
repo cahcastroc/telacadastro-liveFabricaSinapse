@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">projetoFabricaSinapse</string>
+    <string name="seu_nome">Seu nome:</string>
+    <string name="insira_o_seu_nome">Insira o seu nome…</string>
+    <string name="enviar">Enviar</string>
+    <string name="Olá_nome">Olá, %1$s!</string>
+</resources>
