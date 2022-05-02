@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjetoFabricaSinapse">
         <activity
+            android:name=".ResultActvity"
+            android:exported="false" />
+        <activity
             android:name=".DrawerActivity"
             android:exported="true"
             android:label="@string/title_activity_drawer"
